@@ -1,4 +1,4 @@
-##To Run:
+## To Run:
 CD into the project folder and write the following
 go get -u github.com/gorilla/max
 go get -u gorm.io/gorm gorm.io/driver/sqlite
