@@ -8,5 +8,4 @@ After that, you will be able to run the program
 ```
 go run main.go
 ```
-the program will try to run on localhost:8080 
-if it is not already occupied
+The program will check if :8080 is open. If it is, it will occupy it and if not the program will throw a fatal error
